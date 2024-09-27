@@ -16,3 +16,7 @@ Esta aplicación permite a los usuarios explorar visualmente un conjunto de dato
 1. Ejecuta la aplicación con `streamlit run app.py`
 2. Marca las casillas de verificación para ver los gráficos deseados.
 3. Explora los datos interactuando con los gráficos mostrados.
+
+# Aplicación desplegada
+Puedes acceder a la versión en línea de esta aplicación en:
+[https://proyecto-sprint-07.onrender.com/](https://proyecto-sprint-07.onrender.com/)
